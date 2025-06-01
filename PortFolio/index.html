@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <!----font awesome cdn icon css -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+</head>
+<body>
+    <div class="hero-header">
+        <div class="wrapper">
+            <header>
+                <div class="logo"><i class="fa-solid fa-e"></i>
+                <div class="logo-text">Eric Mbithi</div>
+                </div>
+                <nav>
+                    <div class="togglebtn">
+                        <span></span>
+                         <span></span>
+                          <span></span>
+                    </div>
+                    <ul class="navlinks">
+                        <li><a href="#">Home</a></li>
+                         <li><a href="#">Portfolio</a></li>
+                          <li><a href="#">Resume</a></li>
+                           <li><a href="#">Blog</a></li>
+                            <li><a href="#">Contact</a></li>
+                    </ul>
+                </nav>
+            </header>
+            <div class="container">
+                <div class="hero-pic">
+                    <img src="img/Eric.jpg" alt="profile pic">
+                </div>
+                <div class="hero-text">
+                    <h5>Hi I'm <span class="input">Full Stack Developer</span></h5>
+                    <h1>Eric Mbithi</h1>
+                    <p>I'm a passionate software developer with a strong foundation in designing and building efficient, user focused applications. I thrive on solving complex problems through clean, scalable code and love turning ideas into real world solutions.</p>
+                    <div class="btn-group">
+                        <a href="#" class="btn active">Download CV</a>
+                        <a href="mailto:mbithieri@gmail.com" class="btn">Contact</a>
+                    </div>
+
+
+                    <div class="social">
+                        <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                        <a href="https://www.linkedin.com/in/eric-mbithi-0a10222a3"><i class="fa-brands fa-linkedin"></i></a>
+                        <a href="https://www.instagram.com/notericirl"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="https://x.com/iEricStrafes"><i class="fa-brands fa-twitter"></i></a>
+                        <a href="https://www.pinterest.com/iiTzEric23"><i class="fa-brands fa-pinterest"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!---typed js for typing text effect-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.10/typed.min.js"></script>
+    <script>
+
+        /** creating button click show hide navbar **/
+        var togglebtn = document.querySelector(".togglebtn");
+        var nav = document.querySelector(".navlinks");
+        var links = document.querySelectorAll(".navlinks li");
+
+        togglebtn.addEventListener("click", function() {
+            this.classList.toggle("click");
+            nav.classList.toggle("open");
+        });
+
+        var typed = new Typed(".input", {
+            strings: ["Full Stack Developer", "Software Engineer", "Web Developer", "UI/UX Designer"],
+            typeSpeed: 70,
+            backSpeed: 55,
+            loop: true,
+        });
+    </script>
+</body>
+</html>
