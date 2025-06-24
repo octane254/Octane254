@@ -9,7 +9,7 @@ Improving my skills in e.g., web development, Python, game dev, etc.
 📫 How to Reach Me
 LinkedIn: www.linkedin.com/in/eric-mbithi-0a10222a3
 
-Twitter: https://x.com/iEricStrafes
+Twitter: https://x.com/iiTzNoreiii
 
 Email: mbithieri@gmail.com
 _“Code is like a game: every bug is a boss fight waiting to be beaten.”_
