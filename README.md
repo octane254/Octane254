@@ -119,28 +119,15 @@ LCK  [████████░░░░░░░░]  50  →  "It works on m
 
 ---
 
-## 👾 Watch Pac-Man Play Itself!
-
-> A self-playing AI Pac-Man — it dodges ghosts, hunts power pellets & eats everything in sight. Zero player input required. Just vibes. 🟡
+## 👾 Pac-Man is Always Watching
 
 <div align="center">
 
-[![Play Pac-Man](https://img.shields.io/badge/👾%20WATCH%20PAC--MAN%20GO%20BRRR-FFD700?style=for-the-badge&logoColor=black)](https://octane254.github.io/Octane254/pacman.html)
+![Pac-Man](https://raw.githubusercontent.com/Octane254/Octane254/main/pacman.svg)
 
-*Fully autonomous AI · BFS pathfinding · Ghost avoidance · Endless levels 🎮*
+*Pac-Man never stops. Just like my commit streak.* 🟡
 
 </div>
-
-```
-🟡  PAC-MAN AI — AUTO PILOT MODE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ● Eats dots using BFS shortest path
-  ● Flees ghosts when they get close
-  ● HUNTS ghosts after power pellets
-  ● Levels up infinitely — never stops
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Just like me debugging at 2am. Unstoppable.
-```
 
 ---
 
@@ -201,3 +188,5 @@ Slide into my DMs. I don't bite. (Bugs do though.)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Octane254&color=00FFB3&style=flat-square&label=Visitors+who+found+my+lair)
 
 *Thanks for stopping by. Now go touch some grass... after one more commit. 🌿*
+
+</div>
