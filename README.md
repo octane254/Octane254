@@ -1,192 +1,70 @@
-<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 160" width="860" height="160">
+  <defs>
+    <style>
+      @keyframes flicker {0%,100%{opacity:1}92%{opacity:1}93%{opacity:0.4}94%{opacity:1}97%{opacity:0.6}98%{opacity:1}}
+      @keyframes pulse-red {0%,100%{opacity:0.7}50%{opacity:1}}
+      @keyframes float1 {0%{transform:translate(0,0)}33%{transform:translate(6px,-8px)}66%{transform:translate(-4px,5px)}100%{transform:translate(0,0)}}
+      @keyframes float2 {0%{transform:translate(0,0)}25%{transform:translate(-8px,6px)}75%{transform:translate(5px,-4px)}100%{transform:translate(0,0)}}
+      @keyframes float3 {0%{transform:translate(0,0)}40%{transform:translate(10px,-6px)}80%{transform:translate(-3px,8px)}100%{transform:translate(0,0)}}
+      @keyframes slash {0%,85%,100%{opacity:0}88%{opacity:1}95%{opacity:0}}
+      @keyframes cursed {0%{stroke-dashoffset:1000;opacity:0}10%{opacity:0.6}90%{opacity:0.3}100%{stroke-dashoffset:0;opacity:0}}
+      @keyframes eye-glow {0%,100%{opacity:0.5}50%{opacity:1}}
+      @keyframes rise {0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+      .title{animation:flicker 6s infinite}
+      .p1{animation:float1 4s ease-in-out infinite}
+      .p2{animation:float2 5s ease-in-out infinite}
+      .p3{animation:float3 6s ease-in-out infinite}
+      .slash-line{animation:slash 5s ease-in-out infinite}
+      .slash-line2{animation:slash 5s ease-in-out infinite 2.5s}
+      .cursed1{animation:cursed 8s linear infinite}
+      .cursed2{animation:cursed 10s linear infinite 2s}
+      .eye{animation:eye-glow 2s ease-in-out infinite}
+      .sub{animation:rise 3s ease-in-out infinite}
+    </style>
+    <filter id="rg"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="sg"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="tg"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <radialGradient id="bg-g" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#1a0000"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    <radialGradient id="orb" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff2020" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ff2020" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff0000" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ff0000" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#ff0000" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
 
-```
-███████╗██████╗ ██╗ ██████╗
-██╔════╝██╔══██╗██║██╔════╝
-█████╗  ██████╔╝██║██║
-██╔══╝  ██╔══██╗██║██║
-███████╗██║  ██║██║╚██████╗
-╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝
-```
+  <rect width="860" height="160" fill="url(#bg-g)" rx="8"/>
+  <path class="cursed1" d="M 0,80 Q 100,40 200,80 Q 300,120 400,80 Q 500,40 600,80 Q 700,120 860,80" fill="none" stroke="#8b0000" stroke-width="0.8" stroke-dasharray="1000" stroke-dashoffset="1000" opacity="0.4"/>
+  <path class="cursed2" d="M 0,50 Q 150,90 300,50 Q 450,10 600,50 Q 720,80 860,50" fill="none" stroke="#ff2020" stroke-width="0.5" stroke-dasharray="1000" stroke-dashoffset="1000" opacity="0.2"/>
+  <ellipse cx="430" cy="80" rx="200" ry="80" fill="url(#orb)"/>
 
-### `< Hey there! I'm Eric Mbithi />` 👾
+  <g class="p1"><circle cx="60"  cy="30"  r="3" fill="#ff2020" filter="url(#sg)"/></g>
+  <g class="p2"><circle cx="140" cy="120" r="2" fill="#cc0000" filter="url(#sg)"/></g>
+  <g class="p3"><circle cx="780" cy="40"  r="3" fill="#ff2020" filter="url(#sg)"/></g>
+  <g class="p1"><circle cx="700" cy="130" r="2" fill="#8b0000" filter="url(#sg)"/></g>
+  <g class="p2"><circle cx="300" cy="20"  r="2" fill="#ff4040" filter="url(#sg)"/></g>
+  <g class="p3"><circle cx="550" cy="145" r="3" fill="#ff2020" filter="url(#sg)"/></g>
+  <g class="p1"><circle cx="420" cy="15"  r="2" fill="#cc0000" filter="url(#sg)"/></g>
+  <g class="p2"><circle cx="200" cy="140" r="2" fill="#ff2020" filter="url(#sg)"/></g>
 
-*Full Stack Developer · Gamer · Anime Enthusiast · Creative Soul*
+  <line class="slash-line"  x1="120" y1="10" x2="280" y2="150" stroke="url(#sg2)" stroke-width="1.5" filter="url(#sg)"/>
+  <line class="slash-line2" x1="580" y1="10" x2="740" y2="150" stroke="url(#sg2)" stroke-width="1.5" filter="url(#sg)"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Building+things+that+live+on+the+web+%F0%9F%8C%90;Turning+coffee+into+code+%E2%98%95;Gamer+by+night%2C+dev+by+day+%F0%9F%8E%AE;Currently+in+my+anime+arc+%F0%9F%97%A1%EF%B8%8F;Drawing%2C+coding%2C+vibing+%F0%9F%8E%A8;Ship+it.+Fix+it.+Ship+it+again.+%F0%9F%9A%80)](https://git.io/typing-svg)
+  <text x="35"  y="100" font-family="serif" font-size="60" fill="#8b0000" opacity="0.12" font-weight="bold">呪</text>
+  <text x="790" y="100" font-family="serif" font-size="60" fill="#8b0000" opacity="0.12" font-weight="bold">力</text>
 
-</div>
+  <line x1="100" y1="55" x2="330" y2="55" stroke="#8b0000" stroke-width="0.8" opacity="0.6"/>
+  <line x1="530" y1="55" x2="760" y2="55" stroke="#8b0000" stroke-width="0.8" opacity="0.6"/>
+  <circle cx="430" cy="55" r="4" fill="none" stroke="#cc0000" stroke-width="1.2" opacity="0.8" filter="url(#sg)"/>
+  <circle class="eye" cx="430" cy="55" r="1.5" fill="#ff2020" filter="url(#rg)"/>
 
----
-
-## 🧬 About Me
-
-```js
-const eric = {
-  alias:             "Octane254 ⚡",
-  role:              "Full Stack Developer",
-  location:          "Kenya 🇰🇪",
-  currentlyBuilding: [
-    "🎬 Film Company Website",
-    "📖 Manga App",
-    "🗡️  Anime App",
-  ],
-  hobbies:           ["🎮 Gaming", "🎵 Music", "✏️ Drawing", "📚 Reading", "✍️ Writing"],
-  currentBGM:        "Lo-fi hip hop — beats to code & chill to 🎧",
-  favouriteAnime:    "classified 🔒",
-  currentGame:       "something with way too many side quests",
-  funFact:           "I probably have 47 browser tabs open right now.",
-  lifePhilosophy:    "Ship it. Fix it. Ship it again.",
-  weekendPlan:       () => ["game", "draw", "accidentally write code", "repeat"],
-};
-```
-
----
-
-## 🕹️ A Day in the Life of Octane254...
-
-> 🌅 **Morning** — opens laptop, checks emails
->
-> ☕ **9am** — makes coffee, opens 12 more tabs
->
-> 🔥 **11am** — *one small bug* turns into a 3-hour deep dive
->
-> 🎵 **2pm** — lo-fi playlist activated, enters full flow state
->
-> 🚀 **5pm** — ships feature, immediately spots another bug
->
-> 🎮 **8pm** — "just one match" (spoiler: never just one)
->
-> 🌙 **12am** — gets best idea of the day, starts coding again
-
-*Relatable? Yeah. I thought so.*
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-</div>
-
----
-
-## ⚔️ Skills — RPG Edition
-
-```
-STR  [████████████░░░░]  75  →  Can wrestle bugs into submission
-INT  [███████████████░]  95  →  Googles errors with surgical precision  
-DEX  [████████████░░░░]  78  →  Types fast enough to miss semicolons at speed
-WIS  [██████████░░░░░░]  65  →  Reads docs... eventually
-CHA  [████████████████] 100  →  Git commits with personality
-LCK  [████████░░░░░░░░]  50  →  "It works on my machine" energy
-```
-
----
-
-## 🚀 Active Quests (Projects)
-
-| ⚔️ Quest | 📜 Description | 🔥 Status |
-|-----------|----------------|-----------|
-| 🎬 Film Company Website | A cinematic site for a film production company | 🟡 In Progress |
-| 📖 Manga App | Browse, read & discover your favourite manga | 🟡 In Progress |
-| 🗡️ Anime App | Track, rate & discover anime | 🟡 In Progress |
-
-> *"Three projects at once? This is the way."* — Me, at 1am
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Octane254&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Octane254&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=FFFFFF)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Octane254&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3)
-
-</div>
-
----
-
-## 👾 Pac-Man is Always Watching
-
-<div align="center">
-
-![Pac-Man](https://raw.githubusercontent.com/Octane254/Octane254/pacman.svg)
-
-*Pac-Man never stops. Just like my commit streak.* 🟡
-
-</div>
-
----
-
-## 🎮 Gamer Corner
-
-```
-Currently playing:    Something with way too many side quests
-Favourite genre:      Whatever has the best lore
-Playstyle:            Explores every corner before touching the main quest
-Guilty pleasure:      Spending 2hrs on character creation before playing
-Controller or KB+M?   Yes.
-Rage quit frequency:  Totally under control. Totally.
-```
-
----
-
-## 🎵 Coding Playlist Vibes
-
-```
-NOW PLAYING ───────────────────────────── ▶
-🎵  Lo-fi Beats to Code & Chill To
-────●──────────────────── 2:47 / 4:20
-⇄   ◁◁   ▐▐   ▷▷   ↺      🔊
-```
-
-*Rotates between lo-fi, afrobeats, anime OSTs, and whatever my mood at 2am decides.*
-
----
-
-## 📬 Contact Me
-
-```
-Got a crazy idea, a bug that makes no sense,
-or just want to talk anime & games?
-
-Slide into my DMs. I don't bite. (Bugs do though.)
-```
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_ericmbithi)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.ericmbithi)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Octane254)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
-> 📌 **Open to:** Collabs 🤝 &nbsp;|&nbsp; Freelance 💼 &nbsp;|&nbsp; Cool convos 💬
-
-</div>
-
----
-
-<div align="center">
-
-*"The best error message is the one that never shows up."*
-
-&nbsp;
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Octane254&color=00FFB3&style=flat-square&label=Visitors+who+found+my+lair)
-
-*Thanks for stopping by. Now go touch some grass... after one more commit. 🌿*
-
-</div>
+  <text class="title" x="430" y="105" font-family="'Georgia', serif" font-size="40" font-weight="700" fill="#ff2020" text-anchor="middle" letter-spacing="8" filter="url(#tg)">ERIC MBITHI</text>
+  <text class="sub" x="430" y="130" font-family="'Courier New', monospace" font-size="11" fill="#cc4444" text-anchor="middle" letter-spacing="5" opacity="0.9">CURSED ENERGY: FULL STACK DEVELOPER · UNSTOPPABLE</text>
+  <line x1="160" y1="148" x2="700" y2="148" stroke="#8b0000" stroke-width="0.6" opacity="0.4"/>
+</svg>
