@@ -119,6 +119,22 @@ LCK  [████████░░░░░░░░]  50  →  "It works on m
 
 ---
 
+## 🍄 Play My Mini Game!
+
+> A fully playable Super Mario-style game built with vanilla JS — right from my profile!
+
+<div align="center">
+
+[![Play Mario Game](https://img.shields.io/badge/🍄%20PLAY%20MARIO%20GAME-E52521?style=for-the-badge&logoColor=white)](https://octane254.github.io/Octane254/mario-game.html)
+
+*Arrow keys / WASD to move · Space / ↑ to jump · Double jump enabled 🎮*
+
+</div>
+
+> 💡 **To get this working:** Add `mario-game.html` to your profile repo and enable **GitHub Pages** in the repo settings. Then update the link above with your Pages URL.
+
+---
+
 ## 🎮 Gamer Corner
 
 ```
@@ -141,32 +157,29 @@ NOW PLAYING ──────────────────────�
 ⇄   ◁◁   ▐▐   ▷▷   ↺      🔊
 ```
 
-*Rotates between lo-fi, afrobeats, anime OSTs, and whatever mood at 2am decides.*
+*Rotates between lo-fi, afrobeats, anime OSTs, and whatever my mood at 2am decides.*
 
 ---
 
-## 🌐 Find Me Around the Web
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_ericmbithi)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.ericmbithi)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Octane254)
-
-</div>
-
----
-
-## 🤝 Let's Build Something Cool
+## 📬 Contact Me
 
 ```
 Got a crazy idea, a bug that makes no sense,
 or just want to talk anime & games?
 
 Slide into my DMs. I don't bite. (Bugs do though.)
-
-Open to:  Collabs 🤝  |  Freelance 💼  |  Cool convos 💬
 ```
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_ericmbithi)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.ericmbithi)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Octane254)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+> 📌 **Open to:** Collabs 🤝 &nbsp;|&nbsp; Freelance 💼 &nbsp;|&nbsp; Cool convos 💬
+
+</div>
 
 ---
 
