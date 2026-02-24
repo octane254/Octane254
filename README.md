@@ -123,7 +123,7 @@ LCK  [████████░░░░░░░░]  50  →  "It works on m
 
 <div align="center">
 
-![Pac-Man](https://raw.githubusercontent.com/Octane254/Octane254/main/pacman.svg)
+![Pac-Man](https://raw.githubusercontent.com/Octane254/Octane254/pacman.svg)
 
 *Pac-Man never stops. Just like my commit streak.* 🟡
 
