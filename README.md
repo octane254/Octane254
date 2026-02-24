@@ -119,19 +119,28 @@ LCK  [████████░░░░░░░░]  50  →  "It works on m
 
 ---
 
-## 🍄 Play My Mini Game!
+## 👾 Watch Pac-Man Play Itself!
 
-> A fully playable Super Mario-style game built with vanilla JS — right from my profile!
+> A self-playing AI Pac-Man — it dodges ghosts, hunts power pellets & eats everything in sight. Zero player input required. Just vibes. 🟡
 
 <div align="center">
 
-[![Play Mario Game](https://img.shields.io/badge/🍄%20PLAY%20MARIO%20GAME-E52521?style=for-the-badge&logoColor=white)](https://octane254.github.io/Octane254/mario-game.html)
+[![Play Pac-Man](https://img.shields.io/badge/👾%20WATCH%20PAC--MAN%20GO%20BRRR-FFD700?style=for-the-badge&logoColor=black)](https://octane254.github.io/Octane254/pacman.html)
 
-*Arrow keys / WASD to move · Space / ↑ to jump · Double jump enabled 🎮*
+*Fully autonomous AI · BFS pathfinding · Ghost avoidance · Endless levels 🎮*
 
 </div>
 
-> 💡 **To get this working:** Add `mario-game.html` to your profile repo and enable **GitHub Pages** in the repo settings. Then update the link above with your Pages URL.
+```
+🟡  PAC-MAN AI — AUTO PILOT MODE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ● Eats dots using BFS shortest path
+  ● Flees ghosts when they get close
+  ● HUNTS ghosts after power pellets
+  ● Levels up infinitely — never stops
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Just like me debugging at 2am. Unstoppable.
+```
 
 ---
 
@@ -192,5 +201,3 @@ Slide into my DMs. I don't bite. (Bugs do though.)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Octane254&color=00FFB3&style=flat-square&label=Visitors+who+found+my+lair)
 
 *Thanks for stopping by. Now go touch some grass... after one more commit. 🌿*
-
-</div>
