@@ -1,70 +1,188 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 160" width="860" height="160">
-  <defs>
-    <style>
-      @keyframes flicker {0%,100%{opacity:1}92%{opacity:1}93%{opacity:0.4}94%{opacity:1}97%{opacity:0.6}98%{opacity:1}}
-      @keyframes pulse-red {0%,100%{opacity:0.7}50%{opacity:1}}
-      @keyframes float1 {0%{transform:translate(0,0)}33%{transform:translate(6px,-8px)}66%{transform:translate(-4px,5px)}100%{transform:translate(0,0)}}
-      @keyframes float2 {0%{transform:translate(0,0)}25%{transform:translate(-8px,6px)}75%{transform:translate(5px,-4px)}100%{transform:translate(0,0)}}
-      @keyframes float3 {0%{transform:translate(0,0)}40%{transform:translate(10px,-6px)}80%{transform:translate(-3px,8px)}100%{transform:translate(0,0)}}
-      @keyframes slash {0%,85%,100%{opacity:0}88%{opacity:1}95%{opacity:0}}
-      @keyframes cursed {0%{stroke-dashoffset:1000;opacity:0}10%{opacity:0.6}90%{opacity:0.3}100%{stroke-dashoffset:0;opacity:0}}
-      @keyframes eye-glow {0%,100%{opacity:0.5}50%{opacity:1}}
-      @keyframes rise {0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
-      .title{animation:flicker 6s infinite}
-      .p1{animation:float1 4s ease-in-out infinite}
-      .p2{animation:float2 5s ease-in-out infinite}
-      .p3{animation:float3 6s ease-in-out infinite}
-      .slash-line{animation:slash 5s ease-in-out infinite}
-      .slash-line2{animation:slash 5s ease-in-out infinite 2.5s}
-      .cursed1{animation:cursed 8s linear infinite}
-      .cursed2{animation:cursed 10s linear infinite 2s}
-      .eye{animation:eye-glow 2s ease-in-out infinite}
-      .sub{animation:rise 3s ease-in-out infinite}
-    </style>
-    <filter id="rg"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <filter id="sg"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <filter id="tg"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <radialGradient id="bg-g" cx="50%" cy="50%" r="60%">
-      <stop offset="0%" stop-color="#1a0000"/>
-      <stop offset="100%" stop-color="#000000"/>
-    </radialGradient>
-    <radialGradient id="orb" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ff2020" stop-opacity="0.25"/>
-      <stop offset="100%" stop-color="#ff2020" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="sg2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ff0000" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#ff0000" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#ff0000" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
+<div align="center">
 
-  <rect width="860" height="160" fill="url(#bg-g)" rx="8"/>
-  <path class="cursed1" d="M 0,80 Q 100,40 200,80 Q 300,120 400,80 Q 500,40 600,80 Q 700,120 860,80" fill="none" stroke="#8b0000" stroke-width="0.8" stroke-dasharray="1000" stroke-dashoffset="1000" opacity="0.4"/>
-  <path class="cursed2" d="M 0,50 Q 150,90 300,50 Q 450,10 600,50 Q 720,80 860,50" fill="none" stroke="#ff2020" stroke-width="0.5" stroke-dasharray="1000" stroke-dashoffset="1000" opacity="0.2"/>
-  <ellipse cx="430" cy="80" rx="200" ry="80" fill="url(#orb)"/>
+![banner](https://raw.githubusercontent.com/Octane254/Octane254/main/banner.svg)
 
-  <g class="p1"><circle cx="60"  cy="30"  r="3" fill="#ff2020" filter="url(#sg)"/></g>
-  <g class="p2"><circle cx="140" cy="120" r="2" fill="#cc0000" filter="url(#sg)"/></g>
-  <g class="p3"><circle cx="780" cy="40"  r="3" fill="#ff2020" filter="url(#sg)"/></g>
-  <g class="p1"><circle cx="700" cy="130" r="2" fill="#8b0000" filter="url(#sg)"/></g>
-  <g class="p2"><circle cx="300" cy="20"  r="2" fill="#ff4040" filter="url(#sg)"/></g>
-  <g class="p3"><circle cx="550" cy="145" r="3" fill="#ff2020" filter="url(#sg)"/></g>
-  <g class="p1"><circle cx="420" cy="15"  r="2" fill="#cc0000" filter="url(#sg)"/></g>
-  <g class="p2"><circle cx="200" cy="140" r="2" fill="#ff2020" filter="url(#sg)"/></g>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=16&pause=1000&color=CC0000&center=true&vCenter=true&width=600&lines=%E2%80%9CIf+you+wanna+be+the+best%2C+you+gotta+surpass+the+rest.%E2%80%9D;%E2%80%9CNo+matter+how+deep+the+darkness%2C+I+keep+coding.%E2%80%9D;%E2%80%9CPull+requests+are+my+Bankai.%E2%80%9D;%E2%80%9CEvery+bug+is+just+a+cursed+spirit+waiting+to+be+exorcised.%E2%80%9D;%E2%80%9CThe+flames+of+my+passion+will+never+be+extinguished.%E2%80%9D)](https://git.io/typing-svg)
 
-  <line class="slash-line"  x1="120" y1="10" x2="280" y2="150" stroke="url(#sg2)" stroke-width="1.5" filter="url(#sg)"/>
-  <line class="slash-line2" x1="580" y1="10" x2="740" y2="150" stroke="url(#sg2)" stroke-width="1.5" filter="url(#sg)"/>
+</div>
 
-  <text x="35"  y="100" font-family="serif" font-size="60" fill="#8b0000" opacity="0.12" font-weight="bold">呪</text>
-  <text x="790" y="100" font-family="serif" font-size="60" fill="#8b0000" opacity="0.12" font-weight="bold">力</text>
+---
 
-  <line x1="100" y1="55" x2="330" y2="55" stroke="#8b0000" stroke-width="0.8" opacity="0.6"/>
-  <line x1="530" y1="55" x2="760" y2="55" stroke="#8b0000" stroke-width="0.8" opacity="0.6"/>
-  <circle cx="430" cy="55" r="4" fill="none" stroke="#cc0000" stroke-width="1.2" opacity="0.8" filter="url(#sg)"/>
-  <circle class="eye" cx="430" cy="55" r="1.5" fill="#ff2020" filter="url(#rg)"/>
+<div align="center">
 
-  <text class="title" x="430" y="105" font-family="'Georgia', serif" font-size="40" font-weight="700" fill="#ff2020" text-anchor="middle" letter-spacing="8" filter="url(#tg)">ERIC MBITHI</text>
-  <text class="sub" x="430" y="130" font-family="'Courier New', monospace" font-size="11" fill="#cc4444" text-anchor="middle" letter-spacing="5" opacity="0.9">CURSED ENERGY: FULL STACK DEVELOPER · UNSTOPPABLE</text>
-  <line x1="160" y1="148" x2="700" y2="148" stroke="#8b0000" stroke-width="0.6" opacity="0.4"/>
-</svg>
+```
+┌─────────────────────────────────────────────────────────────┐
+│                  ⚔  SHINOBI FILE  ⚔                         │
+│━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━│
+│  CODE NAME   :  O C T A N E 2 5 4                           │
+│  REAL NAME   :  Eric Mbithi                                  │
+│  ORIGIN      :  Kenya 🇰🇪                                    │
+│  RANK        :  Full Stack Developer                         │
+│  CURSED TECH :  React · Flask · Python · Supabase           │
+│  STATUS      :  Currently on 3 Active Missions              │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 〔 術式 〕 CURSED TECHNIQUE — ABOUT ME
+
+```js
+// — Domain Expansion: Developer's Innate Domain —
+
+const octane254 = {
+  name:         "Eric Mbithi",
+  title:        "Full Stack Developer",
+  origin:       "Kenya 🇰🇪",
+  philosophy:   "Pain is temporary. Commits are forever.",
+  cursedEnergy: "Limitless — never stops shipping",
+
+  activeMissions: [
+    { name: "🎬 Film Company Website",  status: "IN PROGRESS" },
+    { name: "📖 Manga App",             status: "IN PROGRESS" },
+    { name: "⚔️  Anime App",            status: "IN PROGRESS" },
+  ],
+
+  offDuty:     ["🎮 Gaming", "🎵 Music", "✏️ Drawing", "📚 Reading", "✍️ Writing"],
+  weakness:    "Interesting side projects at 2am",
+  superpower:  "Turning caffeine into working code",
+};
+
+// "Hard work beats talent when talent doesn't work hard." — Rock Lee
+```
+
+---
+
+## 〔 霊装 〕 SACRED GEAR — TECH STACK
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=CC0000)
+![CSS3](https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=CC0000)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=CC0000)
+![React](https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=CC0000)
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=CC0000)
+![Flask](https://img.shields.io/badge/Flask-0D0D0D?style=for-the-badge&logo=flask&logoColor=CC0000)
+![Supabase](https://img.shields.io/badge/Supabase-0D0D0D?style=for-the-badge&logo=supabase&logoColor=CC0000)
+![Jira](https://img.shields.io/badge/Jira-0D0D0D?style=for-the-badge&logo=jira&logoColor=CC0000)
+
+</div>
+
+---
+
+## 〔 修行 〕 TRAINING ARC — SKILL RANKS
+
+```
+  ┌──────────────────────────────────────────────────────┐
+  │  — SPECIAL GRADE SORCERER ASSESSMENT —               │
+  ├──────────────────────────────────────────────────────┤
+  │                                                      │
+  │  Frontend   ████████████████░░░░  S-RANK  🔴        │
+  │  Backend    █████████████░░░░░░░  A-RANK  🔴        │
+  │  Databases  ████████████░░░░░░░░  A-RANK  🔴        │
+  │  Problem    ███████████████░░░░░  S-RANK  🔴        │
+  │  Solving                                             │
+  │  Debugging  ████████████████████  SS-RANK 🩸        │
+  │  Grind      ████████████████████  LIMITLESS ∞       │
+  │                                                      │
+  │  "When I open my domain, there's no escape."        │
+  └──────────────────────────────────────────────────────┘
+```
+
+---
+
+## 〔 任務 〕 ACTIVE MISSIONS — PROJECTS
+
+<div align="center">
+
+| ⚔️ Mission | 📜 Intel | 🩸 Priority |
+|:---:|:---:|:---:|
+| 🎬 **Film Company Website** | Building a cinematic presence for a film production house | `PRIORITY A` |
+| 📖 **Manga App** | Browse, read & track your favourite manga series | `PRIORITY A` |
+| ⚔️ **Anime App** | Discover, rate & follow anime — built by a fan, for fans | `PRIORITY A` |
+
+*"Three missions. No rest. This is the way of the sorcerer."*
+
+</div>
+
+---
+
+## 〔 記録 〕 BATTLE RECORDS — GITHUB STATS
+
+<div align="center">
+
+![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Octane254&show_icons=true&theme=dark&hide_border=true&bg_color=0D0000&title_color=CC0000&icon_color=CC0000&text_color=ff6666&ring_color=CC0000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Octane254&layout=compact&theme=dark&hide_border=true&bg_color=0D0000&title_color=CC0000&text_color=ff6666)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Octane254&theme=dark&hide_border=true&background=0D0000&ring=CC0000&fire=FF2020&currStreakLabel=CC0000&sideLabels=ff6666&dates=884444)
+
+</div>
+
+---
+
+## 〔 素質 〕 INNATE TRAIT — CHARACTER CLASS
+
+```
+ ╔═══════════════════════════════════════════════════════╗
+ ║          CHARACTER TYPE: THE UNSTOPPABLE GRINDER      ║
+ ║━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━║
+ ║                                                       ║
+ ║  Inspired by:  Naruto · Rock Lee · Luffy              ║
+ ║                                                       ║
+ ║  "I didn't have talent. So I trained until           ║
+ ║   talent didn't matter anymore."                      ║
+ ║                                                       ║
+ ║  Trait:   Never quits. Never backs down.              ║
+ ║  Move:    1000 Commits Jutsu 🌀                       ║
+ ║  Passive: +100% XP during late-night coding sessions  ║
+ ║  Weakness: Interesting GitHub repos at 2am            ║
+ ║                                                       ║
+ ╚═══════════════════════════════════════════════════════╝
+```
+
+---
+
+## 〔 娯楽 〕 OFF-DUTY ACTIVITIES
+
+```
+🎮 GAMING      →  Currently lost in a game with too many side quests
+🎵 MUSIC       →  Lo-fi · Afrobeats · Anime OSTs · Whatever 2am decides
+✏️  DRAWING     →  Concept art, character sketches, random doodles
+📚 READING     →  Manga tabs open simultaneously: yes, many
+✍️  WRITING     →  World-building & stories nobody asked for (yet)
+```
+
+---
+
+## 〔 通信 〕 COMMUNICATION SCROLL
+
+<div align="center">
+
+*"Got a mission? A collab? Or just want to talk anime? Send a scroll."*
+
+[![Twitter](https://img.shields.io/badge/Twitter-0D0D0D?style=for-the-badge&logo=twitter&logoColor=CC0000)](https://x.com/_ericmbithi)
+[![Instagram](https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=CC0000)](https://www.instagram.com/_.ericmbithi)
+[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=CC0000)](https://github.com/Octane254)
+
+`Open to:` **Collabs** ⚔️  &nbsp;|&nbsp; **Freelance** 📜 &nbsp;|&nbsp; **Anime debates** 🩸
+
+</div>
+
+---
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  "The strongest don't give up. They level up."
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Octane254&color=CC0000&style=flat-square&label=Sorcerers+who+entered+the+domain)
+
+*— Domain Expansion: Octane's Innate Domain —*
+
+</div>
