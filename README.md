@@ -279,7 +279,7 @@ const octane254 = {
 
 <div align="center">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d0000&border_color=cc0000)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d0000&border_color=cc0000)](https://open.spotify.com/user/31b6u6eyhqzalbicuwrrdg3wl2mu)
 
 > 💡 **Setup:** Visit [novatorem](https://github.com/novatorem/novatorem) and deploy with your Spotify account to make this widget live!
 
