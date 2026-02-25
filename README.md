@@ -104,14 +104,14 @@ class JutsuArsenal:
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,html,css,tailwind,sass,flask,fastapi,git,github,linux,docker,postgres,mongodb,express,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,python,react,nextjs,nodejs,html,css,tailwind,flask,fastapi,git,github,linux,postgres,mongodb,jira,figma&perline=10" />
 </p>
 
 <!-- Animated Language Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Mastered-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D0000" />
+  <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D0000" />
   <img src="https://img.shields.io/badge/Python-Mastered-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0000" />
-  <img src="https://img.shields.io/badge/React-Mastered-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D0000" />
+  <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D0000" />
   <img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D0000" />
 </p>
 
