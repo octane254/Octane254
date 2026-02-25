@@ -47,16 +47,17 @@ const octane254 = {
 
 ### ░▒▓  〔 霊装 〕  SACRED GEAR  〔 霊装 〕  ▓▒░
 
-![HTML5](https://img.shields.io/badge/HTML5-0D0000?style=for-the-badge&logo=html5&logoColor=CC0000)
-![CSS3](https://img.shields.io/badge/CSS3-0D0000?style=for-the-badge&logo=css3&logoColor=CC0000)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D0000?style=for-the-badge&logo=javascript&logoColor=CC0000)
-![React](https://img.shields.io/badge/React-0D0000?style=for-the-badge&logo=react&logoColor=CC0000)
-![Python](https://img.shields.io/badge/Python-0D0000?style=for-the-badge&logo=python&logoColor=CC0000)
-![Flask](https://img.shields.io/badge/Flask-0D0000?style=for-the-badge&logo=flask&logoColor=CC0000)
-![Supabase](https://img.shields.io/badge/Supabase-0D0000?style=for-the-badge&logo=supabase&logoColor=CC0000)
-![Jira](https://img.shields.io/badge/Jira-0D0000?style=for-the-badge&logo=jira&logoColor=CC0000)
+```python
+class TechStack:
+    def __init__(self):
+        self.languages = ["JavaScript", "Python", "HTML", "CSS"]
+        self.frameworks = ["React", "Flask", "FastAPI", "Pygame"]
+        self.tools = ["Git", "GitHub", "Linux"]
+```
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,linux,flask,fastapi,react&perline=10" alt="Tech Icons" />
+</p>
 
 ---
 
