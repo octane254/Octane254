@@ -59,6 +59,17 @@ class TechStack:
   <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,linux,flask,fastapi,react&perline=10" alt="Tech Icons" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=22D3EE" alt="FastAPI" />
+</p>
+
+<p align="center">
+  <img src="ASSETS/neon-flow-separator.svg" alt="Neon Flow Separator" />
+</p>
+
 ---
 
 <div align="center">
