@@ -1,8 +1,8 @@
 <div align="center">
 
-![banner](https://raw.githubusercontent.com/Octane254/Octane254/main/banner.svg)
+![banner](https://raw.githubusercontent.com/Octane254/Octane254/banner.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=15&pause=1000&color=CC0000&center=true&vCenter=true&width=650&lines=%E2%80%9CIf+you+wanna+be+the+best%2C+you+gotta+surpass+the+rest.%E2%80%9D;%E2%80%9CEvery+bug+is+just+a+cursed+spirit+waiting+to+be+exorcised.%E2%80%9D;%E2%80%9CPull+requests+are+my+Bankai.%E2%80%9D;%E2%80%9CHard+work+beats+talent+when+talent+doesn%27t+work+hard.%E2%80%9D;%E2%80%9CI+didn%27t+have+talent.+So+I+trained+until+it+didn%27t+matter.%E2%80%9D;%E2%80%9CThe+flames+of+my+passion+will+never+be+extinguished.%E2%80%9D;%E2%80%9CDomain+Expansion%3A+Octane%27s+Innate+Domain.%E2%80%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=15&pause=1000&color=CC0000&center=true&vCenter=true&width=700&lines=%E2%80%9CHardwork+is+worthless+for+those+who+don%27t+believe+in+themselves.%E2%80%9D;%E2%80%9CI+didn%27t+have+talent.+So+I+trained+until+it+didn%27t+matter.%E2%80%9D;%E2%80%9CPull+requests+are+my+Bankai.%E2%80%9D;%E2%80%9CEvery+bug+is+a+cursed+spirit+waiting+to+be+exorcised.%E2%80%9D;%E2%80%9CI%27m+gonna+be+the+King+of+the+Devs%21%E2%80%9D;%E2%80%9CDomain+Expansion%3A+Octane%27s+Innate+Domain.%E2%80%9D;%E2%80%9CThe+flames+of+my+passion+will+never+be+extinguished.%E2%80%9D)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,23 +11,30 @@
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│                    ⚔  SHINOBI FILE — TOP SECRET  ⚔              │
-│━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━│
-│  CODE NAME    :  O C T A N E 2 5 4                               │
-│  REAL NAME    :  Eric Mbithi                                      │
-│  ORIGIN       :  Kenya 🇰🇪                                        │
-│  RANK         :  Full Stack Developer                             │
-│  SCHOOL       :  Moringa School — Class of 2025                  │
-│  CURSED TECH  :  React · Flask · Python · Supabase               │
-│  ACTIVE OPS   :  3 Simultaneous Missions                         │
-│  THREAT LEVEL :  ████████████ SPECIAL GRADE                      │
-└──────────────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════╗
+║               ⚔  SHINOBI FILE — TOP SECRET  ⚔                   ║
+║━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━║
+║  CODE NAME    :  O C T A N E  2 5 4                               ║
+║  REAL NAME    :  Eric Mbithi                                       ║
+║  ORIGIN       :  Kenya  🇰🇪                                        ║
+║  RANK         :  Full Stack Developer                              ║
+║  SCHOOL       :  Moringa School — Class of 2025                   ║
+║  CURSED TECH  :  React · Flask · Python · Supabase                ║
+║  SPIRIT ANIMAL:  Monkey D. Luffy  🏴‍☠️                              ║
+║  CURRENT ARC  :  Road to Becoming the Best Software Engineer 🔥   ║
+║  THREAT LEVEL :  ████████████ SPECIAL GRADE                       ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
+
+<div align="center">
+
+### ˹ 封 ˼ &nbsp;&nbsp; TALISMAN · I &nbsp;&nbsp; ˹ 封 ˼
+
+</div>
 
 ## 〔 術式 〕 CURSED TECHNIQUE — ABOUT ME
 
@@ -37,10 +44,11 @@
 const octane254 = {
   name:           "Eric Mbithi",
   alias:          "Octane254 ⚡",
-  title:          "Full Stack Developer",
+  role:           "Full Stack Developer",
   origin:         "Kenya 🇰🇪",
   school:         "Moringa Bootcamp — May 2025",
-  philosophy:     "Pain is temporary. Commits are forever.",
+  spiritAnimal:   "Monkey D. Luffy 🏴‍☠️",
+  philosophy:     "Hardwork is worthless for those who don't believe in themselves.",
   cursedEnergy:   "Limitless — the grind never stops",
 
   currentMissions: [
@@ -49,84 +57,113 @@ const octane254 = {
     "⚔️  Anime App",
   ],
 
+  animeRoster:    ["One Piece 🏴‍☠️", "JJK ⚡", "Naruto 🌀", "AOT ⚔️", "Demon Slayer 🔥", "Bleach ☠️"],
   offDuty:        ["🎮 Gaming", "🎵 Music", "✏️ Drawing", "📚 Reading", "✍️ Writing"],
-  currentBGM:     "Lo-fi · Afrobeats · Anime OSTs · 2am shuffle",
-  favouriteAnime: "[ C L A S S I F I E D ]  🔒",
   weakness:       "Interesting GitHub repos at 2am",
   superpower:     "Turning caffeine into working code",
-
-  motto: "I didn't have talent. So I trained until talent didn't matter.",
+  endGoal:        "The Best Software Engineer. No shortcuts. No excuses.",
 };
+
+// "I'm going to be King of the Devs!" — Octane254, probably
 ```
 
 ---
+
+<div align="center">
+
+### ˹ 滅 ˼ &nbsp;&nbsp; TALISMAN · II &nbsp;&nbsp; ˹ 滅 ˼
+
+</div>
 
 ## 〔 起源 〕 ORIGIN ARC — THE LORE
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   📖  ARC 001:  "AWAKENING"  —  May 2025
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  In the beginning, there was no special ability. No natural gift.
-  Just a young developer from Kenya who stumbled into tech through
-  the people he loved — friends who showed him what was possible,
-  family who believed in him before he believed in himself.
+  No special bloodline. No inherited technique. No head start.
 
-  Then came Moringa School.
+  Just a young developer from Kenya who found his calling
+  through the people he loved most — friends who lit the spark,
+  family who never let it die.
 
-  The doors opened. The terminal blinked. And something clicked.
+  Then came Moringa School. The terminal blinked.
+  And something inside him said: THIS. THIS IS IT.
 
-  It wasn't just interest. It wasn't just a career path.
-  It was the ONLY thing that had ever made complete sense.
+  Not just a skill. Not just a career.
+  The ONLY thing that had ever made complete, total sense.
 
-  Like a hidden cursed technique finally awakening —
-  it didn't matter that he started in May 2025.
-  It didn't matter that others had years of head start.
+  Like Luffy finding his crew — it wasn't planned.
+  It was destiny wearing the disguise of curiosity.
 
-  Because the grind? The grind was LIMITLESS.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   📖  ARC 002:  "THE TRAINING"  —  Currently Ongoing
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  Three projects. Infinite tabs. One relentless developer.
-  Every error message a cursed spirit to be exorcised.
-  Every late-night session a step closer to mastery.
+  Three projects. Infinite tabs. One unstoppable developer.
 
-  The arc isn't over. It's just getting started. 🔥
+  Like Rock Lee who couldn't use ninjutsu —
+  he showed up anyway. Every day. Without fail.
+  Until the gap between him and the "talented" ones
+  became a chasm they couldn't cross.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  That is the way of Octane254.
+
+  "Hardwork is worthless for those who don't believe in themselves."
+  — He believed. So the hardwork was never worthless.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  📖  ARC 003:  "THE GRAND LINE"  —  Coming Soon 🏴‍☠️
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  The best software engineer in the world.
+  That is the destination. The journey has just begun.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
+
+<div align="center">
+
+### ˹ 封 ˼ &nbsp;&nbsp; TALISMAN · III &nbsp;&nbsp; ˹ 封 ˼
+
+</div>
 
 ## 〔 道程 〕 JOURNEY TIMELINE — THE PATH SO FAR
 
 ```
-  ◉ MAY 2025 ──────────────────────────────────────────────────────
+  ◉ MAY 2025 ─────────────────────────────────────────────────────
   │  AWAKENING — Enrolled at Moringa School
-  │  First line of code written. The spark ignited. 🔥
+  │  First line of code written. The Straw Hat crew assembled. 🏴‍☠️
   │
-  ◉ JUNE 2025 ─────────────────────────────────────────────────────
-  │  First project shipped. HTML & CSS mastered.
-  │  JavaScript begins to make sense (mostly).
+  ◉ JUNE 2025 ────────────────────────────────────────────────────
+  │  HTML & CSS mastered. First project shipped.
+  │  JavaScript begins to make sense (mostly). 🌀
   │
-  ◉ JULY — AUG 2025 ───────────────────────────────────────────────
-  │  React unlocked. Python & Flask entered the stack.
-  │  Supabase — the database arc begins.
+  ◉ JULY — AUG 2025 ──────────────────────────────────────────────
+  │  React unlocked ⚡ Python & Flask entered the stack.
+  │  Supabase — the database arc begins. ☠️
   │
-  ◉ SEPT 2025 ONWARDS ─────────────────────────────────────────────
-  │  THREE simultaneous projects launched.
+  ◉ SEPT 2025 ONWARDS ────────────────────────────────────────────
+  │  THREE simultaneous missions launched.
   │  Film Site. Manga App. Anime App.
-  │  Sleep schedule: optional. Passion: non-negotiable.
+  │  No sleep lost. All passion gained. 🔥
   │
-  ◎ NOW ───────────────────────────────────────────────────────────
-     Still training. Still shipping. Still levelling up.
-     "The journey of a thousand deploys begins with a single commit."
+  ◎ NOW — CURRENT ARC ────────────────────────────────────────────
+     ⚔️  ROAD TO BECOMING THE BEST SOFTWARE ENGINEER
+     "I don't know everything yet. But I will."
+     The Grand Line awaits. 🏴‍☠️
 ```
 
 ---
+
+<div align="center">
+
+### ˹ 滅 ˼ &nbsp;&nbsp; TALISMAN · IV &nbsp;&nbsp; ˹ 滅 ˼
+
+</div>
 
 ## 〔 霊装 〕 SACRED GEAR — TECH STACK
 
@@ -145,28 +182,80 @@ const octane254 = {
 
 ---
 
-## 〔 修行 〕 TRAINING ARC — SKILL RANKS
+## 〔 キャラ 〕 CHARACTER CARD — BATTLE STATS
 
 ```
-  ┌────────────────────────────────────────────────────────────┐
-  │         ⚔  SPECIAL GRADE SORCERER ASSESSMENT  ⚔           │
-  ├────────────────────────────────────────────────────────────┤
-  │                                                            │
-  │  Frontend      ████████████████░░░░  S-RANK   🔴          │
-  │  Backend       █████████████░░░░░░░  A-RANK   🔴          │
-  │  Databases     ████████████░░░░░░░░  A-RANK   🔴          │
-  │  Problem Solving ███████████████░░░  S-RANK   🔴          │
-  │  Creativity    ████████████████████  SS-RANK  🩸          │
-  │  Debugging     ████████████████████  SS-RANK  🩸          │
-  │  Grind         ████████████████████  LIMITLESS ∞          │
-  │                                                            │
-  │  Time Coding:  Started May 2025 — Already dangerous ⚠️    │
-  │                                                            │
-  │  "A few months in. A lifetime of fuel behind him."        │
-  └────────────────────────────────────────────────────────────┘
+  ╔════════════════════════════════════════════════════════════════╗
+  ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+  ║  ░                                                          ░  ║
+  ║  ░   NAME    :  Eric "Octane254" Mbithi                     ░  ║
+  ║  ░   CLASS   :  Full Stack Sorcerer                         ░  ║
+  ║  ░   RANK    :  Special Grade (Rising)                      ░  ║
+  ║  ░   ORIGIN  :  Kenya 🇰🇪  |  SCHOOL: Moringa 2025          ░  ║
+  ║  ░                                                          ░  ║
+  ║  ░━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━░  ║
+  ║  ░                                                          ░  ║
+  ║  ░  ⚡ FRONTEND      ████████████████░░░░  82  S-RANK       ░  ║
+  ║  ░  ⚡ BACKEND       █████████████░░░░░░░  70  A-RANK       ░  ║
+  ║  ░  ⚡ DATABASES     ████████████░░░░░░░░  65  A-RANK       ░  ║
+  ║  ░  ⚡ PROBLEM SOLVE ███████████████░░░░░  85  S-RANK       ░  ║
+  ║  ░  🩸 CREATIVITY    ████████████████████  99  SS-RANK      ░  ║
+  ║  ░  🩸 DEBUGGING     ████████████████████  99  SS-RANK      ░  ║
+  ║  ░  🏴‍☠️ GRIND        ████████████████████  ∞   LIMITLESS   ░  ║
+  ║  ░  🏴‍☠️ BELIEF       ████████████████████  ∞   ABSOLUTE    ░  ║
+  ║  ░                                                          ░  ║
+  ║  ░  SPIRIT ANIMAL : Monkey D. Luffy 🏴‍☠️                     ░  ║
+  ║  ░  SPECIAL MOVE  : 1000 Commits Jutsu 🌀                   ░  ║
+  ║  ░  CURSED TECH   : Domain Expansion — Full Stack Domain    ░  ║
+  ║  ░                                                          ░  ║
+  ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+  ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ---
+
+<div align="center">
+
+### ˹ 封 ˼ &nbsp;&nbsp; TALISMAN · V &nbsp;&nbsp; ˹ 封 ˼
+
+</div>
+
+## 〔 固有術式 〕 INNATE TECHNIQUE — CURSED MOVE
+
+```
+  ╔════════════════════════════════════════════════════════════════╗
+  ║                                                                ║
+  ║       ███████╗ ██╗   ██╗██╗     ██╗          ███████╗         ║
+  ║       ██╔════╝ ██║   ██║██║     ██║          ██╔════╝         ║
+  ║       █████╗   ██║   ██║██║     ██║          ███████╗         ║
+  ║       ██╔══╝   ██║   ██║██║     ██║          ╚════██║         ║
+  ║       ██║      ╚██████╔╝███████╗███████╗     ███████║         ║
+  ║       ╚═╝       ╚═════╝ ╚══════╝╚══════╝     ╚══════╝         ║
+  ║                                                                ║
+  ║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
+  ║  DOMAIN EXPANSION:  O C T A N E ' S  I N N A T E  D O M A I N ║
+  ║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
+  ║                                                                ║
+  ║  Within this domain, all bugs are guaranteed to be hit.       ║
+  ║  All features are guaranteed to ship.                         ║
+  ║  No cursed spirit of legacy code can escape.                  ║
+  ║                                                                ║
+  ║  SPECIAL MOVES:                                                ║
+  ║    🌀  Gear Second — React optimisation mode                   ║
+  ║    ⚡  Bankai       — Full deployment sequence initiated       ║
+  ║    🔥  Eight Gates  — 48hr hackathon survival mode             ║
+  ║    🏴‍☠️  Gomu Gomu   — Stretches deadlines beyond their limits  ║
+  ║                                                                ║
+  ╚════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+### ˹ 滅 ˼ &nbsp;&nbsp; TALISMAN · VI &nbsp;&nbsp; ˹ 滅 ˼
+
+</div>
 
 ## 〔 任務 〕 ACTIVE MISSIONS — PROJECTS
 
@@ -174,82 +263,191 @@ const octane254 = {
 
 | ⚔️ Mission | 📜 Intel | 🩸 Priority |
 |:---|:---|:---:|
-| 🎬 **Film Company Website** | Cinematic site for a film production house — lights, camera, deploy | `PRIORITY A` |
-| 📖 **Manga App** | Browse, read & track your favourite manga series | `PRIORITY A` |
+| 🎬 **Film Company Website** | A cinematic site for a film production house — lights, camera, deploy | `PRIORITY A` |
+| 📖 **Manga App** | Browse, read & track your favourite manga — built different | `PRIORITY A` |
 | ⚔️ **Anime App** | Discover, rate & follow anime — built by a fan, for fans | `PRIORITY A` |
 
-*"Three missions. No rest. This is the way of the sorcerer."*
+*"Three simultaneous missions. Naruto ran while eating ramen. I code while watching anime. We are not the same."*
 
 </div>
 
 ---
 
-## 〔 宿敵 〕 SWORN ENEMIES — THE RIVALS
+## 〔 現在の弧 〕 CURRENT ARC STATUS
 
 ```
-  ⚠  WANTED — CURSED SPIRITS OF THE CODEBASE  ⚠
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  👹  NullPointerException      — THREAT: EXTREME
-      Last seen: production. Always returns. Never forgiven.
-
-  👺  Merge Conflict             — THREAT: HIGH
-      Appears when you least expect it. Destroys timelines.
-
-  🕷️  CSS Specificity Demon      — THREAT: UNHINGED
-      Changes nothing. Breaks everything. Logic immune.
-
-  💀  Legacy Spaghetti Code      — THREAT: ANCIENT
-      No one wrote it. No one understands it. It just exists.
-
-  🔥  The 3am Bug                — THREAT: FINAL BOSS
-      Only appears at 3am. Disappears when you show someone.
-
-  👻  Works On My Machine        — THREAT: SPECTRAL
-      Undefeatable. Haunts all developers. Eternal.
-
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  STATUS:  All rivals still at large. Hunt ongoing. 🗡️
+  ┌─────────────────────────────────────────────────────────────┐
+  │                                                             │
+  │   ARC NAME  :  ROAD TO BECOMING THE BEST SOFTWARE ENGINEER  │
+  │   STATUS    :  ████████░░░░░░░░░░░░  TRAINING ARC          │
+  │   PROGRESS  :  Getting dangerous. Not there yet. Soon.      │
+  │                                                             │
+  │   CURRENT MISSIONS:                                         │
+  │     ✅  Learn HTML · CSS · JavaScript · React               │
+  │     ✅  Learn Python · Flask · Supabase                     │
+  │     ✅  Ship 3 real-world projects                          │
+  │     🔄  Master full stack architecture                      │
+  │     🔄  Build projects that make people say "who made this?"│
+  │     ⬜  Land first dev role                                 │
+  │     ⬜  Contribute to open source                          │
+  │     ⬜  Build something used by thousands                   │
+  │     ⬜  The Best. Full stop.                                │
+  │                                                             │
+  │   "I'm not there yet. But I'm closer than yesterday."      │
+  │                                          — Octane254 🏴‍☠️   │
+  └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
-
-## 〔 名誉 〕 HALL OF TROPHIES — ACHIEVEMENTS
-
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║              🏆  ACHIEVEMENT UNLOCKED  🏆                ║
-  ╠══════════════════════════════════════════════════════════╣
-  ║                                                          ║
-  ║  🔴  ORIGIN STORY      — Enrolled at Moringa, May 2025  ║
-  ║  🔴  FIRST BLOOD       — Shipped first ever project     ║
-  ║  🔴  STACK BUILDER     — Mastered HTML·CSS·JS·React     ║
-  ║  🔴  SERPENT TAMER     — Python & Flask unlocked        ║
-  ║  🔴  THE TRIAD         — 3 active projects simultaneously║
-  ║  🩸  NIGHT OWL         — Coded past 2am (many times)   ║
-  ║  🩸  FULL STACK INIT   — Frontend + Backend connected   ║
-  ║  ⬜  DOMAIN MASTER     — [ LOCKED — keep grinding ]     ║
-  ║  ⬜  SENSEI            — [ LOCKED — mentor others ]     ║
-  ║  ⬜  LEGENDARY DEV     — [ LOCKED — ship 10 projects ]  ║
-  ║                                                          ║
-  ╚══════════════════════════════════════════════════════════╝
-```
-
----
-
-## 〔 今日の言葉 〕 DAILY CURSED QUOTE
 
 <div align="center">
 
-> *"The moment you think about giving up, think about why you started."*
-> — **Naruto Uzumaki**
+### ˹ 封 ˼ &nbsp;&nbsp; TALISMAN · VII &nbsp;&nbsp; ˹ 封 ˼
 
-> *"A sword is only as strong as the one who wields it. Code is only as powerful as the one who writes it."*
-> — **Octane254, probably, at 2am**
+</div>
+
+## 〔 宿敵 〕 SWORN ENEMIES — CURSED SPIRITS OF THE CODEBASE
+
+```
+  ⚠  BINGO BOOK — WANTED CURSED SPIRITS  ⚠
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  👹  NullPointerException        THREAT: SPECIAL GRADE
+      Appears in production only. Times attacks perfectly.
+
+  👺  Merge Conflict               THREAT: GRADE 1
+      Multiplies when ignored. Has destroyed timelines.
+
+  🕷️  CSS Specificity Demon        THREAT: UNCLASSIFIED
+      Defies logic. Immune to reasoning. Feeds on tears.
+
+  💀  The 3am Bug                  THREAT: FINAL BOSS
+      Only visible at 3am. Vanishes when shown to others.
+      Technique: Gaslighting Jutsu.
+
+  👻  Works On My Machine          THREAT: SPECTRAL
+      Cannot be killed. Haunts all developers. Eternal.
+      Believed to be the true final boss.
+
+  🔥  Scope Creep                  THREAT: GRADE 1
+      Naruto's shadow clones but for requirements.
+      "One more feature" — it never stops.
+
+  ☠️  The Legacy Codebase          THREAT: ANCIENT CURSE
+      No author. No docs. No mercy. Just vibes.
+
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  STATUS: All rivals still at large. Hunt ongoing. ⚔️
+```
+
+---
+
+## 〔 名誉 〕 HALL OF TROPHIES — ACHIEVEMENTS UNLOCKED
+
+```
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                  🏆  ACHIEVEMENT LOG  🏆                     ║
+  ╠══════════════════════════════════════════════════════════════╣
+  ║                                                              ║
+  ║  🔴  ORIGIN STORY      Enrolled at Moringa — May 2025       ║
+  ║  🔴  FIRST BLOOD       Shipped very first project            ║
+  ║  🔴  STRAW HAT CODER   Chose Luffy as spirit animal ✅      ║
+  ║  🔴  STACK BUILDER     Mastered HTML · CSS · JS · React     ║
+  ║  🔴  SERPENT TAMER     Python & Flask unlocked              ║
+  ║  🔴  THE TRIAD         3 active simultaneous projects       ║
+  ║  🔴  NIGHT OWL         Coded past 2am (many many times)    ║
+  ║  🩸  FULL STACK INIT   Frontend + Backend connected         ║
+  ║  🩸  NAKAMA FOUND      Friends & family who believed first  ║
+  ║  🩸  BELIEVER          Chose hardwork over doubt            ║
+  ║  ⬜  DOMAIN MASTER     [ LOCKED — keep grinding ]           ║
+  ║  ⬜  CREW CAPTAIN      [ LOCKED — lead a dev team ]         ║
+  ║  ⬜  GRAND LINE        [ LOCKED — land first dev role ]     ║
+  ║  ⬜  PIRATE KING       [ LOCKED — best software engineer ]  ║
+  ║                                                              ║
+  ╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+### ˹ 滅 ˼ &nbsp;&nbsp; TALISMAN · VIII &nbsp;&nbsp; ˹ 滅 ˼
+
+</div>
+
+## 〔 名言 〕 WORDS OF THE STRONG — FAVOURITE QUOTES
+
+<div align="center">
+
+> *"Hardwork is worthless for those who don't believe in themselves."*
+> — **Might Guy, Naruto** *(and Octane254's personal code)*
+
+> *"I don't want to conquer anything. I just think the person with the most freedom in this whole ocean... is the Pirate King!"*
+> — **Monkey D. Luffy, One Piece**
+
+> *"No matter how deep the night, it always turns to day, eventually."*
+> — **Brook, One Piece**
+
+> *"Pull requests are my Bankai."*
+> — **Octane254, at 2am**
 
 </div>
 
 ---
+
+## 〔 読書 〕 MANGA READING LIST — CURRENT SCROLLS
+
+<div align="center">
+
+| 📖 Title | 🩸 Status | ⚔️ Verdict |
+|:---:|:---:|:---:|
+| **One Piece** 🏴‍☠️ | `ACTIVELY READING` | The greatest story ever told. No debate. |
+| **Lookism** 👊 | `ACTIVELY READING` | Hits different. Real ones know. |
+| **Eleceed** ⚡ | `ACTIVELY READING` | Underrated gem. Carry it. |
+| **Boruto** 🌀 | `ACTIVELY READING` | Naruto's son walking his own path. |
+
+*"Reading manga is research. Don't @ me."* 📚
+
+</div>
+
+---
+
+## 〔 好きなキャラ 〕 FAVOURITE CHARACTER — SPIRIT ANIMAL
+
+```
+  ╔═══════════════════════════════════════════════════════════════╗
+  ║                                                               ║
+  ║              🏴‍☠️  MONKEY D. LUFFY  🏴‍☠️                         ║
+  ║              Captain of the Straw Hat Pirates                 ║
+  ║                                                               ║
+  ║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
+  ║                                                               ║
+  ║  WHY LUFFY?                                                   ║
+  ║                                                               ║
+  ║  He didn't start with the best powers.                       ║
+  ║  He didn't have the most refined technique.                  ║
+  ║  He wasn't the smartest in the room.                         ║
+  ║                                                               ║
+  ║  But he had UNSHAKEABLE belief in himself.                   ║
+  ║  He had a dream nobody else thought was possible.            ║
+  ║  And he had a crew who trusted him completely.               ║
+  ║                                                               ║
+  ║  He became King anyway.                                       ║
+  ║                                                               ║
+  ║  That's the energy. That's the goal. That's the way.        ║
+  ║                                                               ║
+  ║  "I'm gonna be King of the Devs!" — Octane254  🏴‍☠️           ║
+  ║                                                               ║
+  ╚═══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+### ˹ 封 ˼ &nbsp;&nbsp; TALISMAN · IX &nbsp;&nbsp; ˹ 封 ˼
+
+</div>
 
 ## 〔 記録 〕 BATTLE RECORDS — GITHUB STATS
 
@@ -275,113 +473,78 @@ const octane254 = {
 
 ---
 
-## 〔 音楽 〕 NOW PLAYING — SOUNDTRACK OF THE GRIND
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d0000&border_color=cc0000)](https://open.spotify.com/user/31b6u6eyhqzalbicuwrrdg3wl2mu)
-
-> 💡 **Setup:** Visit [novatorem](https://github.com/novatorem/novatorem) and deploy with your Spotify account to make this widget live!
-
-</div>
-
-```
-  ╔══════════════════════════════════════════╗
-  ║  NOW PLAYING                          ▶  ║
-  ║  🎵  Lo-fi Beats / Anime OST Blend       ║
-  ║  ────●────────────────────  2:47 / 4:20  ║
-  ║  ⇄   ◁◁   ▐▐   ▷▷   ↺          🔊      ║
-  ║                                          ║
-  ║  QUEUE:  Afrobeats → More lo-fi →        ║
-  ║          That one attack on titan ost →  ║
-  ║          Repeat forever                  ║
-  ╚══════════════════════════════════════════╝
-```
-
----
-
-## 〔 素質 〕 CHARACTER CLASS — INNATE TRAIT
-
-```
-  ╔═══════════════════════════════════════════════════════════╗
-  ║         CHARACTER TYPE:  THE UNSTOPPABLE GRINDER         ║
-  ║━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━║
-  ║                                                           ║
-  ║  Inspired by:   Naruto · Rock Lee · Monkey D. Luffy      ║
-  ║                                                           ║
-  ║  "Started late. Didn't have connections.                  ║
-  ║   Didn't have a background in tech.                       ║
-  ║   Had friends. Had family. Had fire.                      ║
-  ║   That was enough."                                       ║
-  ║                                                           ║
-  ║  Trait:    Never quits. Never backs down.                 ║
-  ║  Move:     1000 Commits Jutsu 🌀                          ║
-  ║  Passive:  +200% XP during late-night coding sessions     ║
-  ║  Special:  Inspires others just by existing 🔥            ║
-  ║  Weakness: Interesting GitHub repos at 2am               ║
-  ║                                                           ║
-  ╚═══════════════════════════════════════════════════════════╝
-```
-
----
-
-## 〔 娯楽 〕 OFF-DUTY MODE
+## 〔 娯楽 〕 OFF-DUTY MODE — WHEN NOT SHIPPING
 
 ```
   🎮  GAMING    →  Currently lost in a world with too many side quests
   🎵  MUSIC     →  Lo-fi · Afrobeats · Anime OSTs · 2am shuffle
   ✏️   DRAWING   →  Sketches, characters, worlds nobody else has seen yet
-  📚  READING   →  Manga tabs: way too many open simultaneously
+  📚  READING   →  One Piece · Lookism · Eleceed · Boruto (all at once)
   ✍️   WRITING   →  World-building & stories nobody asked for (yet)
+  📺  WATCHING  →  One Piece · JJK · AOT · Demon Slayer · Bleach · Naruto
 ```
 
 ---
 
+<div align="center">
+
+### ˹ 滅 ˼ &nbsp;&nbsp; TALISMAN · X &nbsp;&nbsp; ˹ 滅 ˼
+
+</div>
+
 ## 〔 秘密 〕 ??? — CLASSIFIED SECTOR
 
 <details>
-<summary>⚠️ &nbsp;<b>[ CLEARANCE REQUIRED — CLICK TO UNLOCK ]</b>&nbsp; ⚠️</summary>
+<summary>⚠️ &nbsp;<b>[ TOP SECRET — CLEARANCE REQUIRED — CLICK TO ENTER THE DOMAIN ]</b>&nbsp; ⚠️</summary>
 
 <br>
 
 ```
-  ACCESS GRANTED. WELCOME TO THE INNER DOMAIN.
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ██████████████████████████████████████████████████████████
+  ██  ACCESS GRANTED. WELCOME TO THE INNER DOMAIN.        ██
+  ██████████████████████████████████████████████████████████
 
   CLASSIFIED INTEL ON OCTANE254:
 
   🔴  Has definitely named a variable after an anime character.
-  🔴  Once fixed a bug by reading the error message. Revolutionary.
-  🔴  The 3am version of Eric is 40% more productive and 200% more unhinged.
-  🔴  Commits with messages like "fix: finally" and "why does this work".
+  🔴  Once fixed a bug by reading the error message. Legendary.
+  🔴  The 3am version of Eric is 40% more productive, 200% unhinged.
+  🔴  Commit messages include "fix: finally", "pls work", "why".
   🔴  Types fast enough to introduce and fix bugs simultaneously.
-  🔴  Opened so many Stack Overflow tabs that it became a personality trait.
-  🔴  Believes dark mode is a lifestyle, not a setting.
-  🔴  Has a drawing of his ideal app UI somewhere in a sketchbook.
-  🔴  Once said "I'll just fix this one thing" and emerged 4 hours later.
-  🔴  The anime app is also 70% a personal watchlist tracker. No shame.
+  🔴  Opened so many Stack Overflow tabs it became a personality.
+  🔴  Believes dark mode is not a setting but a lifestyle choice.
+  🔴  Has a sketchbook with UI designs nobody has asked for yet.
+  🔴  Said "just one more episode" and watched 8. Every time.
+  🔴  The Anime App is 70% a personal watchlist. No regrets.
+  🔴  Relates to Luffy so much it's actually a little scary.
+  🔴  Has mentally assigned each teammate a Straw Hat role.
+  🔴  Started May 2025. Already more dangerous than people who
+      started years ago. The grind is real.
 
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  HIDDEN MOVE UNLOCKED:  𝗗𝗢𝗠𝗔𝗜𝗡 𝗘𝗫𝗣𝗔𝗡𝗦𝗜𝗢𝗡
-  "Within my domain, all bugs are visible. None escape."
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ██████████████████████████████████████████████████████████
+  ██  HIDDEN MOVE UNLOCKED:                               ██
+  ██                                                      ██
+  ██   𝗗𝗢𝗠𝗔𝗜𝗡 𝗘𝗫𝗣𝗔𝗡𝗦𝗜𝗢𝗡:  𝗚𝗨𝗠 𝗚𝗨𝗠 𝗙𝗨𝗟𝗟 𝗦𝗧𝗔𝗖𝗞             ██
+  ██   "Within this domain, all features ship guaranteed."██
+  ██                                                      ██
+  ██████████████████████████████████████████████████████████
 ```
 
 </details>
 
 ---
 
-## 〔 通信 〕 COMMUNICATION SCROLL — REACH ME
+## 〔 通信 〕 COMMUNICATION SCROLL — FIND ME
 
 <div align="center">
 
-*"Got a mission? A collab? Want to debate which arc hit harder? Send a scroll."*
+*"Got a mission? A collab? Want to debate One Piece arcs? Send a scroll. 🏴‍☠️"*
 
 [![Twitter](https://img.shields.io/badge/Twitter-0D0000?style=for-the-badge&logo=twitter&logoColor=CC0000)](https://x.com/_ericmbithi)
 [![Instagram](https://img.shields.io/badge/Instagram-0D0000?style=for-the-badge&logo=instagram&logoColor=CC0000)](https://www.instagram.com/_.ericmbithi)
 [![GitHub](https://img.shields.io/badge/GitHub-0D0000?style=for-the-badge&logo=github&logoColor=CC0000)](https://github.com/Octane254)
 
-`Open to:` **Collabs** ⚔️ &nbsp;|&nbsp; **Freelance** 📜 &nbsp;|&nbsp; **Anime debates** 🩸 &nbsp;|&nbsp; **Building cool things** 🔥
+`Open to:` **Collabs** ⚔️ &nbsp;|&nbsp; **Freelance** 📜 &nbsp;|&nbsp; **Anime debates** 🩸 &nbsp;|&nbsp; **Building the impossible** 🏴‍☠️
 
 </div>
 
@@ -390,14 +553,17 @@ const octane254 = {
 <div align="center">
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   "I didn't have talent. So I trained until it didn't matter."
-                        — Octane254
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  "Hardwork is worthless for those who don't believe in themselves."
+                   I believe. So the work is never worthless.
+                              — Octane254  🏴‍☠️
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Octane254&color=CC0000&style=flat-square&label=Sorcerers+who+entered+the+domain)
 
-*— Domain Expansion: Octane's Innate Domain — All who enter, witness greatness —*
+*— Domain Expansion: Octane's Innate Domain — Gum Gum Full Stack —*
 
 </div>
+
+
