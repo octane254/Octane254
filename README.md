@@ -66,10 +66,6 @@ class TechStack:
   <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=22D3EE" alt="FastAPI" />
 </p>
 
-<p align="center">
-  <img src="ASSETS/neon-flow-separator.svg" alt="Neon Flow Separator" />
-</p>
-
 ---
 
 <div align="center">
