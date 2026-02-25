@@ -166,7 +166,7 @@ class CursedTechniqueArsenal:
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,html,css,tailwind,sass,flask,fastapi,django,git,github,linux,docker,postgres,mongodb,redis&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,html,css,tailwind,sass,flask,fastapi,git,github,linux&perline=10" />
 </p>
 
 <!-- Technique Badges -->
