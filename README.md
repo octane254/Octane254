@@ -1,242 +1,145 @@
 <div align="center">
 
-![banner](https://raw.githubusercontent.com/Octane254/Octane254/main/banner.svg)
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=こんにちは!%20Welcome&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=15&pause=1000&color=CC0000&center=true&vCenter=true&width=700&lines=%E2%80%9CHardwork+is+worthless+for+those+who+don%27t+believe+in+themselves.%E2%80%9D;%E2%80%9CI%27m+gonna+be+the+King+of+the+Devs!%E2%80%9D+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;%E2%80%9CPull+requests+are+my+Bankai.%E2%80%9D+%E2%98%A0%EF%B8%8F;%E2%80%9CDomain+Expansion%3A+Octane%27s+Innate+Domain.%E2%80%9D;%E2%80%9CEvery+bug+is+a+cursed+spirit+waiting+to+be+exorcised.%E2%80%9D)](https://git.io/typing-svg)
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Full+Stack+Developer+%7C+Anime+Enthusiast;Building+cool+stuff+%26+watching+anime+%F0%9F%8D%9C;Currently+watching%3A+[Your+Current+Anime]" alt="Typing SVG" />
 
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║            ⚔  OCTANE254  ·  SHINOBI FILE  ⚔            ║
-║━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━║
-║  Eric Mbithi  ·  Kenya 🇰🇪  ·  Full Stack Developer     ║
-║  Moringa 2025  ·  Spirit: Monkey D. Luffy 🏴‍☠️           ║
-║  Threat Level:  ████████████  SPECIAL GRADE             ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
+<!-- Profile Views Counter with Anime Style -->
+<img src="https://komarev.com/ghpvc/?username=octane254&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=ghost" alt="profile views" />
 
 ---
 
-<div align="center">
+### 🎌 About Me
 
-### ░▒▓  〔 術式 〕  CURSED TECHNIQUE  〔 術式 〕  ▓▒░
-
-</div>
-
-```js
-const octane254 = {
-  role:      "Full Stack Developer  ⚡",
-  arc:       "Road to Becoming the Best Software Engineer  🏴‍☠️",
-  building:  ["🎬 Film Co. Website", "📖 Manga App", "⚔️ Anime App"],
-  watching:  ["One Piece 🏴‍☠️", "JJK ⚡", "Naruto 🌀", "AOT ⚔️", "Demon Slayer 🔥", "Bleach ☠️"],
-  reading:   ["One Piece", "Lookism", "Eleceed", "Boruto"],
-  vibe:      "Hardwork is worthless for those who don't believe in themselves.",
+```typescript
+const aboutMe = {
+    pronouns: "he/him",
+    location: "Kenya",
+    currentAnime: ["Frieren", "Demon Slayer", "One Piece"],
+    favoriteGenres: ["Shonen", "Shoujo", "Isekai"],
+    code: ["Html", "Css", "Python", "JavaScript", "React"],
+    askMeAbout: ["web dev", "anime", "manga", "tech"],
+    funFact: "I've watched over 250 anime series! 📺"
 };
 ```
 
 ---
 
-<div align="center">
+### ⚡ Tech Stack
 
-### ░▒▓  〔 霊装 〕  SACRED GEAR  〔 霊装 〕  ▓▒░
+<img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,linux,flask,react,jira,figma&perline=6" />
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=octane254&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octane254&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=octane254&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B9D&currStreakLabel=FF6B9D" width="60%" />
+
+---
+
+### 🎯 Current Focus
 
 ```python
-class TechStack:
+class CurrentlyLearning:
     def __init__(self):
-        self.languages = ["JavaScript", "Python", "HTML", "CSS"]
-        self.frameworks = ["React", "Flask", "FastAPI", "Pygame"]
-        self.tools = ["Git", "GitHub", "Linux"]
-```
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,linux,flask,fastapi,react&perline=10" alt="Tech Icons" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=22D3EE" alt="FastAPI" />
-</p>
-
----
-
-<div align="center">
-
-### ░▒▓  〔 キャラ 〕  CHARACTER CARD  〔 キャラ 〕  ▓▒░
-
-</div>
-
-```
-  ┌─────────────────────────────────────────────────────┐
-  │  CLASS   Full Stack Sorcerer  ·  RANK  Special Grade │
-  ├─────────────────────────────────────────────────────┤
-  │  ⚡ Frontend      ████████████████░░░░  S            │
-  │  ⚡ Backend       █████████████░░░░░░░  A            │
-  │  ⚡ Databases     ████████████░░░░░░░░  A            │
-  │  🩸 Creativity    ████████████████████  SS           │
-  │  🩸 Debugging     ████████████████████  SS           │
-  │  🏴‍☠️ Grind        ████████████████████  ∞            │
-  ├─────────────────────────────────────────────────────┤
-  │  MOVE   1000 Commits Jutsu 🌀                        │
-  │  DOMAIN  Gum Gum Full Stack — nothing escapes 🏴‍☠️   │
-  └─────────────────────────────────────────────────────┘
+        self.languages = ["Html", "Python"]
+        self.frameworks = ["React"]
+        self.topics = ["System Design", "Web3"]
+        self.side_projects = ["Anime App", "Manga App"]
+    
+    def motto(self):
+        return "Code like a protagonist, debug like a detective! 🔍"
 ```
 
 ---
 
-<div align="center">
+### 🏆 GitHub Trophies
 
-### ░▒▓  〔 現在の弧 〕  CURRENT ARC  〔 現在の弧 〕  ▓▒░
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
 
-</div>
+---
 
-```
-  ROAD TO BECOMING THE BEST SOFTWARE ENGINEER  🏴‍☠️
+### 📈 Contribution Graph
 
-  ✅  HTML · CSS · JavaScript · React
-  ✅  Python · Flask · Supabase
-  ✅  3 Real-world Projects Shipped
-  🔄  Mastering Full Stack Architecture
-  🔄  Building things that make people ask "who made this?"
-  ⬜  First Dev Role
-  ⬜  Open Source Contributor
-  ⬜  10,000 Users
-  ⬜  The Best. Full stop. ∞
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=FF6B9D&point=FFFFFF&area_color=A855F7&area=true&hide_border=true" width="100%"/>
+
+---
+
+### 🎭 Favorite Anime Quotes
+
+> *"The world isn't perfect. But it's there for us, doing the best it can; that's what makes it so damn beautiful."* - **Roy Mustang, FMA**
+
+> *"If you don't take risks, you can't create a future!"* - **Monkey D. Luffy, One Piece**
+
+---
+
+### 🎮 Anime & Coding Playlist
+
+When I'm coding, I'm listening to:
+- ⚔️ OST from Attack on Titan
+- 🎹 Your Lie in April Piano Collection
+- 🔥 Demon Slayer Epic Themes
+- 🌟 Studio Ghibli Lo-fi Remixes
+
+---
+
+### 🤝 Connect With Me
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/_ericmbithi">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="mailto:mbithieri@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://myanimelist.net/profile/BRIMFUL_KNUCKLE8">
+  <img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" />
+</a>
+
+---
+
+### 🎨 Recent Projects
+
+<!-- Add your pinned repos or featured projects here -->
+<a href="https://github.com/octane254/PROJECT1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=octane254E&repo=PROJECT1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/octane254/PROJECT2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=octane254&repo=PROJECT2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+
+---
+
+### 💭 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
 <div align="center">
+  
+### ✨ "Believe in yourself. Not in the you who believes in me. Not the me who believes in you. Believe in the you who believes in yourself." ✨
+*- Kamina, Gurren Lagann*
 
-### ░▒▓  〔 任務 〕  ACTIVE MISSIONS  〔 任務 〕  ▓▒░
-
-| ⚔️ | Mission | Status |
-|:---:|:---|:---:|
-| 🎬 | **Film Company Website** — cinematic, sharp, deployed | `IN PROGRESS` |
-| 📖 | **Manga App** — read & track your favourite series | `IN PROGRESS` |
-| ⚔️ | **Anime App** — discover, rate & follow anime | `IN PROGRESS` |
-
-</div>
-
----
-
-<div align="center">
-
-### ░▒▓  〔 記録 〕  BATTLE RECORDS  〔 記録 〕  ▓▒░
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Octane254&show_icons=true&theme=dark&hide_border=true&bg_color=0D0000&title_color=CC0000&icon_color=CC0000&text_color=ff6666)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Octane254&layout=compact&theme=dark&hide_border=true&bg_color=0D0000&title_color=CC0000&text_color=ff6666)
-
-![Streak](https://streak-stats.demolab.com?user=Octane254&theme=dark&hide_border=true&background=0D0000&ring=CC0000&fire=FF2020&currStreakLabel=CC0000&sideLabels=ff6666&dates=884444)
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Octane254&bg_color=0d0000&color=cc0000&line=ff2020&point=ff6666&area=true&hide_border=true&area_color=440000)
-
-</div>
-
----
-
-<div align="center">
-
-### ░▒▓  〔 宿敵 〕  SWORN ENEMIES  〔 宿敵 〕  ▓▒░
-
-</div>
-
-```
-  👹  NullPointerException   ·  SPECIAL GRADE  ·  Still at large
-  💀  The 3am Bug            ·  FINAL BOSS     ·  Only appears at 3am
-  👻  Works On My Machine    ·  SPECTRAL       ·  Unkillable
-  🕷️  CSS Specificity Demon  ·  UNCLASSIFIED   ·  Defies all logic
-  ☠️  Legacy Codebase        ·  ANCIENT CURSE  ·  No author. No mercy.
-```
-
----
-
-<div align="center">
-
-### ░▒▓  〔 名誉 〕  TROPHIES  〔 名誉 〕  ▓▒░
-
-</div>
-
-```
-  🔴  Origin Story    · Enrolled Moringa · May 2025
-  🔴  First Blood     · Shipped first project
-  🔴  Stack Builder   · HTML · CSS · JS · React · Python · Flask
-  🔴  The Triad       · 3 active projects simultaneously
-  🩸  Night Owl       · Coded past 2am (countless times)
-  🩸  Believer        · Chose hardwork over doubt. Every time.
-  ⬜  Domain Master   · [ LOCKED ]
-  ⬜  Pirate King     · [ LOCKED — The Best Software Engineer ]
-```
-
----
-
-<div align="center">
-
-### ░▒▓  〔 読書 〕  MANGA LIST  〔 読書 〕  ▓▒░
-
-| 📖 | Status |
-|:---|:---:|
-| One Piece 🏴‍☠️ | `READING` |
-| Lookism 👊 | `READING` |
-| Eleceed ⚡ | `READING` |
-| Boruto 🌀 | `READING` |
-
-</div>
-
----
-
-<div align="center">
-
-### ░▒▓  〔 秘密 〕  SECRET  〔 秘密 〕  ▓▒░
-
-</div>
-
-<details>
-<summary><b>⚠️  [ CLEARANCE REQUIRED — CLICK TO ENTER THE DOMAIN ]  ⚠️</b></summary>
-
-<br>
-
-```
-  ██  ACCESS GRANTED  ██████████████████████████████████████
-
-  🔴  Named at least one variable after an anime character
-  🔴  Commit messages: "fix: finally" · "pls work" · "why"
-  🔴  Said "one more episode" — watched 8. Every time.
-  🔴  The Anime App is 70% a personal watchlist. No regrets.
-  🔴  Mentally assigned every teammate a Straw Hat role
-  🔴  Started May 2025. Already dangerous. Getting worse.
-
-  ██████████████████████████████████████████████████████████
-  ██   DOMAIN EXPANSION:  GUM GUM FULL STACK  🏴‍☠️          ██
-  ██   "All features ship. No bugs escape."               ██
-  ██████████████████████████████████████████████████████████
-```
-
-</details>
-
----
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-0D0000?style=for-the-badge&logo=twitter&logoColor=CC0000)](https://x.com/_ericmbithi)
-[![Instagram](https://img.shields.io/badge/Instagram-0D0000?style=for-the-badge&logo=instagram&logoColor=CC0000)](https://www.instagram.com/_.ericmbithi)
-[![GitHub](https://img.shields.io/badge/GitHub-0D0000?style=for-the-badge&logo=github&logoColor=CC0000)](https://github.com/Octane254)
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  "Hardwork is worthless for those who don't
-         believe in themselves."  🏴‍☠️
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-![Visitors](https://komarev.com/ghpvc/?username=Octane254&color=CC0000&style=flat-square&label=Sorcerers+who+entered+the+domain)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
