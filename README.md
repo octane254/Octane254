@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://raw.githubusercontent.com/Octane254/Octane254/banner.svg)
+![banner](https://raw.githubusercontent.com/Octane254/Octane254/main/banner.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=15&pause=1000&color=CC0000&center=true&vCenter=true&width=700&lines=%E2%80%9CHardwork+is+worthless+for+those+who+don%27t+believe+in+themselves.%E2%80%9D;%E2%80%9CI+didn%27t+have+talent.+So+I+trained+until+it+didn%27t+matter.%E2%80%9D;%E2%80%9CPull+requests+are+my+Bankai.%E2%80%9D;%E2%80%9CEvery+bug+is+a+cursed+spirit+waiting+to+be+exorcised.%E2%80%9D;%E2%80%9CI%27m+gonna+be+the+King+of+the+Devs%21%E2%80%9D;%E2%80%9CDomain+Expansion%3A+Octane%27s+Innate+Domain.%E2%80%9D;%E2%80%9CThe+flames+of+my+passion+will+never+be+extinguished.%E2%80%9D)](https://git.io/typing-svg)
 
