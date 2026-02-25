@@ -1,7 +1,7 @@
 div align="center">
 
 <!-- Animated Header with Japanese Text -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=280&section=header&text=オクタン254&fontSize=80&fontAlignY=35&desc=ERIC MBITHI%20%E3%83%BB%20FULL%20STACK%20SHINOBI&descAlignY=55&descAlign=50&animation=fadeIn&fontColor=fff&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=280&section=header&text=オクタン254&fontSize=80&fontAlignY=35&desc=OCTANE254%20%E3%83%BB%20FULL%20STACK%20SHINOBI&descAlignY=55&descAlign=50&animation=fadeIn&fontColor=fff&descSize=20" />
 
 <!-- Glowing Neon Title Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=FF2D55&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%E2%9A%A1+%E3%80%8C+DOMAIN+EXPANSION+%E3%80%8D+%E2%9A%A1;%F0%9F%94%A5+Full+Stack+Sorcerer+%7C+Code+Ninja+%F0%9F%94%A5;%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+Road+to+Pirate+King+of+Devs+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F" alt="Animated Title" />
