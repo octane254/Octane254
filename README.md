@@ -10,7 +10,7 @@
 
 ## 🖤 About Me
 
-I'm **Eric Mbithi**, 21 years old—a fullstack developer fresh out of bootcamp, ready to build and ship. Like a sorcerer mastering cursed energy, I transform ideas into functional applications. Every line of code is a technique refined, every bug squashed is a victory earned.
+I'm **Eric Mbithi**, 21 years old, a fullstack developer fresh out of bootcamp, ready to build and ship. Like a sorcerer mastering cursed energy, I transform ideas into functional applications. Every line of code is a technique refined, every bug squashed is a victory earned.
 
 **Manifesto:** *Grade the problem, execute the solution, refine the technique.*
 
@@ -108,10 +108,10 @@ A collection of solved problems and implementations exploring fundamental comput
 ┌─────────────────────────────────────┐
 │    Contact the Sorcerer             │
 ├─────────────────────────────────────┤
-│  Email: your.email@example.com      │
-│  LinkedIn: /in/yourprofile          │
-│  Twitter: @yourhandle               │
-│  Discord: YourTag#1234              │
+│  Email: mbithieri@gmail.com      │
+│  LinkedIn: /in/eric-mbithi-0a10222a3         │
+│  Twitter: @_ericmbithi               │
+│  Discord: iiTzEr1c#1234              │
 │  Personal Site: yoursite.com        │
 └─────────────────────────────────────┘
 ```
