@@ -163,7 +163,7 @@ Ongoing collection of solved problems and implementations exploring fundamental 
 
 ## 📜 Sacred Texts (Education & Growth)
 
-- **Fullstack Web Development Bootcamp Certificate** — Graduated 2024
+- **Fullstack Web Development Bootcamp Certificate** — Graduated 2025
 - Intensive 12-week program: React, Flask, Python, JavaScript, databases
 - Capstone Project: Fullstack web application with React & Flask
 - Focus: Practical skills, project-based learning, rapid iteration
