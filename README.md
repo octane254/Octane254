@@ -118,7 +118,7 @@ A collection of solved problems and implementations exploring fundamental comput
 
 💼 **Professional Network:** [LinkedIn](https://linkedin.com/in/eric-mbithi-0a10222a3/)  
 🐦 **Thoughts & Updates:** [Twitter](https://twitter.com/_ericmbithi)  
-🌐 **Portfolio:** [[yoursite.com](https://yoursite.com](https://personal-portfolio-ten-tan-82.vercel.app/))  
+🌐 **Portfolio:** [(PortFolio](https://personal-portfolio-ten-tan-82.vercel.app/))  
 📧 **Direct Message:** [Email](mailto:mbithieri@gmail.com)
 
 ---
