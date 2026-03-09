@@ -1,9 +1,11 @@
-# ◆ Cursed Code Sorcerer
+# ◆ Eric Mbithi — Cursed Code Sorcerer
 
 ```
-   In the shadows of the digital realm,
-   where logic flows like cursed energy,
-   a programmer hones their craft.
+   ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+   ┃  In the shadows of the digital realm  ┃
+   ┃  where logic flows like cursed energy ┃
+   ┃  a 21-year-old programmer hones craft ┃
+   ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
 ---
@@ -12,7 +14,11 @@
 
 I'm **Eric Mbithi**, 21 years old, a fullstack developer fresh out of bootcamp, ready to build and ship. Like a sorcerer mastering cursed energy, I transform ideas into functional applications. Every line of code is a technique refined, every bug squashed is a victory earned.
 
-**Manifesto:** *Grade the problem, execute the solution, refine the technique.*
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Manifesto: Grade the problem → Execute → Refine
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 ---
 
@@ -29,46 +35,71 @@ Currently building my foundation in fullstack development, transforming academic
 
 ## 🗡️ Arsenal (Tech Stack)
 
-### Languages
+<table>
+<tr>
+<td width="50%">
+
+### 🔤 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Frontend Arsenal
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+</td>
+<td width="50%">
 
-### Backend Spells
+### ⚙️ Backend
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-### Cursed Tools (Tooling)
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌑 Current Battles (Projects)
 
-### KPM SalesTrack
+### 🚀 KPM SalesTrack
 A comprehensive sales tracking application designed to streamline inventory and sales management. Built during bootcamp as a capstone project, demonstrating fullstack integration and real-world problem solving.
 
-**Tech:** React • Flask • Python • HTML/CSS  
-**Features:** Sales dashboard, inventory tracking, data visualization  
-**GitHub:** [KPM-salesTrack-Frontend](https://github.com/octane254/KPM-salesTrack-Frontend)  
-**Status:** Complete & Deployed
+| | |
+|---|---|
+| **Tech Stack** | React • Flask • Python • HTML/CSS |
+| **Features** | Sales dashboard, inventory tracking, data visualization |
+| **Repository** | [octane254/KPM-salesTrack-Frontend](https://github.com/octane254/KPM-salesTrack-Frontend) |
+| **Status** | ✅ Complete & Deployed |
 
-### Portfolio Website
+---
+
+### 💼 Portfolio Website
 Personal portfolio showcasing projects, skills, and the developer's journey. Built with React and CSS, deployed on Vercel with a focus on clean design, responsive layout, and excellent user experience.
 
-**Tech:** React • JavaScript • CSS3 • HTML5  
-**Live Site:** [personal-portfolio-ten-tan-82.vercel.app](https://personal-portfolio-ten-tan-82.vercel.app/)  
-**Status:** Active & Evolving
+| | |
+|---|---|
+| **Tech Stack** | React • JavaScript • CSS3 • HTML5 |
+| **Live Site** | [🔗 Visit Portfolio](https://personal-portfolio-ten-tan-82.vercel.app/) |
+| **Status** | 🔄 Active & Evolving |
 
-### Algorithm & Data Structures Practice
-A collection of solved problems and implementations exploring fundamental computer science concepts. Ongoing commitment to mastering the foundations.
+---
 
-**Tech:** Python • JavaScript  
-**Status:** Continuous Learning
+### 🧠 Algorithm & Data Structures Practice
+Ongoing collection of solved problems and implementations exploring fundamental computer science concepts. Commitment to mastering the foundations beyond bootcamp curriculum.
+
+| | |
+|---|---|
+| **Tech Stack** | Python • JavaScript |
+| **Status** | 📚 Continuous Learning |
 
 ---
 
@@ -85,18 +116,22 @@ A collection of solved problems and implementations exploring fundamental comput
 
 ## 📊 Power Statistics
 
+<div align="center">
+
 ```
-┌─────────────────────────────────────┐
-│         SORCERER'S GRIMOIRE         │
-├─────────────────────────────────────┤
-│  Total Cursed Energy Refined: 200+  │
-│  Projects Completed:           5+   │
-│  Languages Mastered:            4   │
-│  Grade: Rising B                    │
-└─────────────────────────────────────┘
+╔════════════════════════════════════════╗
+║         SORCERER'S GRIMOIRE            ║
+╠════════════════════════════════════════╣
+║  Total Cursed Energy Refined: 200+ hrs ║
+║  Projects Completed:             5+    ║
+║  Languages Mastered:              4    ║
+║  Current Grade:            Rising B     ║
+╚════════════════════════════════════════╝
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octane254&theme=dark&hide_border=true&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF)
+</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octane254&theme=dark&hide_border=true&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&card_width=500px)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=octane254&theme=dark&hide_border=true&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&layout=compact)
 
@@ -104,22 +139,15 @@ A collection of solved problems and implementations exploring fundamental comput
 
 ## 🔗 Communication Channels
 
-```
-┌─────────────────────────────────────┐
-│    Contact the Sorcerer             │
-├─────────────────────────────────────┤
-│  Email: mbithieri@gmail.com      │
-│  LinkedIn: /in/eric-mbithi-0a10222a3         │
-│  Twitter: @_ericmbithi               │
-│  Discord: iiTzEr1c#1234              │
-│  Personal Site: yoursite.com        │
-└─────────────────────────────────────┘
-```
+<div align="center">
 
-💼 **Professional Network:** [LinkedIn](https://linkedin.com/in/eric-mbithi-0a10222a3/)  
-🐦 **Thoughts & Updates:** [Twitter](https://twitter.com/_ericmbithi)  
-🌐 **Portfolio:** [(PortFolio](https://personal-portfolio-ten-tan-82.vercel.app/))  
-📧 **Direct Message:** [Email](mailto:mbithieri@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbithieri@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-mbithi-0a10222a3/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_ericmbithi)
+!![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.ericmbithi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-ten-tan-82.vercel.app/)
+
+</div>
 
 ---
 
@@ -136,7 +164,7 @@ A collection of solved problems and implementations exploring fundamental comput
 
 ## 📜 Sacred Texts (Education & Growth)
 
- **Fullstack Web Development Bootcamp Certificate** — Graduated 2025
+- **Fullstack Web Development Bootcamp Certificate** — Graduated 2024
 - Intensive 12-week program: React, Flask, Python, JavaScript, databases
 - Capstone Project: Fullstack web application with React & Flask
 - Focus: Practical skills, project-based learning, rapid iteration
@@ -155,16 +183,15 @@ Actively looking for:
 
 ---
 
+---
+
+<div align="center">
+
 ```
    "The way of a programmer is the way of the sorcerer—
    mastering the unseen forces that govern reality,
    one algorithm at a time."
 ```
-
-**Last Updated:** 2026  
-**Status:** ◆ Graduated 2025 • Actively Building
-
----
 
 ### 🌙 Silent Wisdom
 
@@ -172,4 +199,9 @@ Actively looking for:
 
 ---
 
-*© 2026 — Built in the shadows, optimized for glory.*
+**Last Updated:** 2025  
+**Status:** ◆ Bootcamp Graduate 2024 • Actively Building
+
+*Built in the shadows, optimized for glory.*
+
+</div>
