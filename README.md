@@ -199,7 +199,7 @@ Actively looking for:
 ---
 
 **Last Updated:** 2026  
-**Status:** ◆ Bootcamp Graduate 2025 • Actively Building
+**Status:** ◆ Bootcamp Graduate 2025 • Actively Building.
 
 *Built in the shadows, optimized for glory.*
 
